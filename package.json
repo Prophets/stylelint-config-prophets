@@ -1,0 +1,30 @@
+{
+  "name": "stylelint-config-prophets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Thomas Mattheussen",
+  "license": "MIT",
+  "keywords": [
+    "style guide",
+    "lint",
+    "stylelint",
+    "stylelint-config"
+  ],
+  "devDependencies": {
+    "stylelint": "^9.10.1",
+    "stylelint-scss": "^3.5.4"
+  },
+  "peerDependencies": {
+    "stylelint": "^9.10.1",
+    "stylelint-scss": "^3.5.4"
+  },
+  "bugs": {
+    "url": "https://github.com/Prophets/stylelint-config-prophets/issues"
+  },
+  "homepage": "https://github.com/Prophets/stylelint-config-prophets",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Prophets/stylelint-config-prophets.git"
+  }
+}
